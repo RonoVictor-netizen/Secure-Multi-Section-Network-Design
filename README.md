@@ -81,7 +81,6 @@ This comprehensive enterprise network design implements a secure three-section a
 - **Process ID**: 1 (consistent across all routers)
 - **Area Design**: All networks in Area 0 for simplified topology
 - **Network Statements**: All internal networks advertised via OSPF
-- **Router IDs**: Manually configured for stability (R1: 1.1.1.1, R2: 2.2.2.2, R3: 3.3.3.3)
 
 ### Route Redistribution
 - Directly connected networks automatically redistributed
